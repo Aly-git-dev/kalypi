@@ -1,15 +1,28 @@
 # KALYPI
 
-Engineering portfolio for software systems, academic prototypes and interactive technical demos.
+**Build. Experiment. Iterate.**
 
-## Development
+KALYPI is an engineering playground and professional portfolio featuring interactive technical labs focused on software development, algorithms, computer architecture, compilers, infrastructure and systems thinking.
 
-```bash
-npm run dev
-```
+## Labs
 
-The CoLab showcase presents the real project stack:
+- Compiler Lab
+- RISC-V Processor Lab
+- Algorithms Lab
+- CoLab Showcase
+- Systems & Infrastructure Lab
+- PvZ Chess
 
-- Angular 17, TypeScript, CSS/HTML, PWA support through ngsw-config and Docker on the frontend side.
-- Java, Spring Boot, PostgreSQL/PLpgSQL, Docker and Docker Compose on the backend side.
-"# kalypi" 
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+## Author
+
+Melanie Roman  
+GitHub: https://github.com/Aly-git-dev  
+LinkedIn: https://www.linkedin.com/in/melanie-roman-569a213ab/  
+Email: melaniere02@gmail.com
